@@ -3,7 +3,7 @@
 
   <remote fetch="https://github.com/hailo-ai" name="hailo"/>
   <remote fetch="https://github.com/System-Electronics" name="system"/>
-  <remote fetch="https://github.com/alessandrocapotondi" name="dev"/>
+  <remote fetch="git@github.com:alessandrocapotondi" name="dev"/>
   <remote fetch="https://github.com/IntelRealSense" name="intelrealsense"/>
 
   <project name="meta-intel-realsense" remote="intelrealsense" revision="kirkstone" path="sources-extra/meta-intel-realsense"/>
