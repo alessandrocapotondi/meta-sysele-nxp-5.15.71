@@ -31,4 +31,4 @@ IMAGE_INSTALL:append = " \
 IMAGE_INSTALL:append = " librealsense2 librealsense2-tools"
 IMAGE_INSTALL:append = " librealsense2-debug-tools"
 IMAGE_INSTALL:append = " python3-pyrealsense2"
-PACKAGECONFIG:append:pn-librealsense2 = " rsusb"
+
